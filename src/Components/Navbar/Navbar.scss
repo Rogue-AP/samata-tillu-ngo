@@ -1,0 +1,20 @@
+.navbar {
+    list-style-type: none;
+    background-color: orange;
+    margin: 0;
+}
+
+.navbar-item {
+    padding: 10px;
+    display: inline; 
+    font-size: 1.4rem;
+}
+
+.navbar-item > a {
+    text-decoration: none;
+    color: black;
+}
+
+.navbar-item > a:hover {
+    background-color: rgb(201, 137, 19);
+}
